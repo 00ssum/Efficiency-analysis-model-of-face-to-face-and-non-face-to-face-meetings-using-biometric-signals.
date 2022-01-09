@@ -1,4 +1,5 @@
 ## 생체신호를 이용한 대면과 비대면 미팅의 효율성 분석 모델
+(Efficiency analysis model of face-to-face and non-face-to-face meetings using biometric signals)
 
 ### 1. 프로젝트 목표 
 #### ○ 프로젝트명
